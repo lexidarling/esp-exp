@@ -1,16 +1,16 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
+      "name": "esp-exp",
+      "maintainer": "s",
+      "websiteURL": "https://github.com/lexidarling/esp-exp",
       "email": "hristo@espressif.com",
       "help": {
         "online": "http://esp32.com"
       },
       "platforms": [
         {
-          "name": "esp32",
+          "name": "esp-exp",
           "architecture": "esp32",
           "version": "1.1.1",
           "category": "ESP32",
