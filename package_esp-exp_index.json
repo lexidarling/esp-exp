@@ -12,18 +12,18 @@
         {
           "name": "esp-exp",
           "architecture": "esp32",
-          "version": "1.1.1",
+          "version": "1.1.2",
           "category": "ESP32",
-          "url": "https://github.com/lexidarling/esp-exp/archive/refs/tags/1.1.1.zip",
-          "archiveFileName": "1.1.1.zip",
-          "checksum": "SHA-256:937d695322ddcd9123f1265586ba6aafd893b547903ed2a28677d2fa72fcde9e",
-          "size": "38685330",
+          "url": "https://github.com/lexidarling/esp-exp/archive/refs/tags/1.1.2.zip",
+          "archiveFileName": "1.1.2.zip",
+          "checksum": "SHA-256:e0c0fee24f3f56dd8db2a87c7dda15ae6451dd4a8a4c2a8013564af6d4969138",
+          "size": "38467342",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "ESP-EXP Board"
+              "name": "ESP-EXP"
             }
           ],
           "toolsDependencies": [
